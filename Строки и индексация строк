@@ -1,0 +1,36 @@
+ame="Hello"
+print(name[0:3:2])
+
+print(name[::])
+
+print(name[-1])
+
+print(name[0])
+
+print(name[::-1])
+
+print("hello"*6)
+
+print(name[0:3][:3])
+
+print(name[:2])
+
+print(name[:1])
+
+print(name[::][::-1])
+
+
+
+C:\Users\SEROG\PycharmProjects(stroci\pythonProject3\.venv\Scripts\python.exe "C:\Users\SEROG\PycharmProjects(stroci\pythonProject3\main.py" 
+Hl
+Hello
+o
+H
+olleH
+hellohellohellohellohellohello
+Hel
+He
+H
+olleH
+
+Process finished with exit code 0
